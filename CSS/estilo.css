@@ -1,0 +1,8 @@
+input{
+}
+
+div#corpo-form{
+    background-color:red;
+    width: 420px;
+    margin: 150px auto 0px auto;
+}
